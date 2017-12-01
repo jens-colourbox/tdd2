@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "company": "Telmore",
+    "plan": "Home",
+    "data": 20,
+    "hours": 20,
+    "price": 129
+  },
+  {
+    "id": 2,
+    "company": "Telmore",
+    "plan": "Play",
+    "data": 30,
+    "hours": 15,
+    "price": 129
+  },
+  {
+    "id": 3,
+    "company": "Oister",
+    "plan": "P1",
+    "data": 1,
+    "hours": 2,
+    "price": 59
+  }
+]

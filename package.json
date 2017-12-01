@@ -1,0 +1,27 @@
+{
+  "name": "tdd2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "e2e": "nightwatch --config nightwatch.conf.js",
+    "build": "webpack -p --env production"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "clean-webpack-plugin": "^0.1.17",
+    "env2": "^2.2.0",
+    "file-loader": "^1.1.5",
+    "html-webpack-plugin": "^2.30.1",
+    "jest": "^21.2.1",
+    "nightwatch": "^0.9.16",
+    "node-fetch": "^1.7.3",
+    "selenium-download": "^2.0.10",
+    "webpack": "^3.9.0"
+  }
+}

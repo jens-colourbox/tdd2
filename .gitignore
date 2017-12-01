@@ -1,0 +1,6 @@
+dist/
+node_modules/
+test-output/
+.bin
+.env
+selenium-debug.log
